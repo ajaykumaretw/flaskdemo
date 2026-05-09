@@ -6,3 +6,8 @@ def sub(a,b):
 def sum(a,b):
  c=a+b
  return c
+#Added function for mul with numbers
+def mul(a,b):
+ c=a*b
+ return c
+
