@@ -2,3 +2,6 @@ venv/
 .git/
 __pycache__/
 *.pyc
+logs/mylog.log
+.xls
+.xlsx
