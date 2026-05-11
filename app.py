@@ -2,10 +2,12 @@
 from flask import Flask,render_template,request,url_for,redirect,jsonify
 import pandas as pd 
 import webbrowser
+from  logs.logger import logger
 app=Flask(__name__)
 
 @app.route("/",methods=["GET"])# For Home Page
 def welcome():
+  logger.info("Home Page is called")
   return "Hi I am Ajay Kumar: I am Senior ML Enginner"
 
 @app.route("/contactUs",methods=["GET"])# For Home Page
