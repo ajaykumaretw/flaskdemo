@@ -1,0 +1,17 @@
+2026-05-11 17:15:03,948 | INFO | Logger initialized successfully
+2026-05-11 17:15:04,016 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.31.238:5000
+2026-05-11 17:15:04,016 | INFO | [33mPress CTRL+C to quit[0m
+2026-05-11 17:15:04,018 | INFO |  * Restarting with stat
+2026-05-11 17:15:04,700 | INFO | Logger initialized successfully
+2026-05-11 17:15:04,713 | WARNING |  * Debugger is active!
+2026-05-11 17:15:04,718 | INFO |  * Debugger PIN: 348-356-347
+2026-05-11 17:15:26,176 | INFO |  * Detected change in 'D:\\Projects\\flaskdemo\\logs\\__init__.py', reloading
+2026-05-11 17:15:26,308 | INFO |  * Restarting with stat
+2026-05-11 17:15:27,168 | INFO | Logger initialized successfully
+2026-05-11 17:15:27,183 | WARNING |  * Debugger is active!
+2026-05-11 17:15:27,187 | INFO |  * Debugger PIN: 348-356-347
+2026-05-11 17:15:33,348 | INFO |  * Detected change in 'D:\\Projects\\flaskdemo\\logs\\__init__.py', reloading
+2026-05-11 17:15:33,448 | INFO |  * Restarting with stat
